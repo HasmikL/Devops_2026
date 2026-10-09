@@ -1,0 +1,29 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+secrets/
+credentials/
+
+# Logs and database backups
+*.log
+*.dump
+*.sql.gz
+*.backup
+
+# Operating system and editor files
+.DS_Store
+.AppleDouble
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary reports
+*.tmp
