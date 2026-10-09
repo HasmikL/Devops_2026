@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-devops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Restaurant demo application for a DevOps project",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
